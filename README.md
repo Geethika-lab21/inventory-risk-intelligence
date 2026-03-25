@@ -199,8 +199,8 @@ This system helps businesses:
 
 ---
 
-<img src="images/in1.png" width="800"/>
-<img src="images/in2.png" width="800"/>
+<img src="images/in1com.png" width="800"/>
+<img src="images/in2com.png" width="800"/>
 
 ## 👩‍💻 Author
 
