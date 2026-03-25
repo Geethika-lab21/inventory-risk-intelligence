@@ -198,7 +198,13 @@ This system helps businesses:
 * Integration with ERP systems
 
 ---
+## 📷 Screenshots
 
+<img src="images/in1com.png" width="800"/>
+
+<br/><br/>
+
+<img src="images/in2com.png" width="800"/>
 
 ## 👩‍💻 Author
 
