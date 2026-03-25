@@ -204,7 +204,8 @@ This system helps businesses:
 Geethika
 
 ---
-
+<img src="images/im1.png" width="800"/>
+<img src="images/im2.png" width="800"/>
 ## ⭐ Final Note
 
 This project demonstrates how Machine Learning, full-stack development, and business logic can be combined to solve real-world inventory problems.
