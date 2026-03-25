@@ -199,6 +199,9 @@ This system helps businesses:
 
 ---
 
+<img src="images/in1.png" width="800"/>
+<img src="images/in2.png" width="800"/>
+
 ## 👩‍💻 Author
 
 Geethika
