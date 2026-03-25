@@ -200,11 +200,11 @@ This system helps businesses:
 ---
 ## 📷 Screenshots
 
-<img src="images/in1com.png" width="800"/>
+<img src="in1.png" width="800"/>
 
 <br/><br/>
 
-<img src="images/in2com.png" width="800"/>
+<img src="in2.png" width="800"/>
 
 ## 👩‍💻 Author
 
